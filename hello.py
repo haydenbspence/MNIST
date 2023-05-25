@@ -1,4 +1,4 @@
-#save this file as hello.py in your repo
+#save this file as hello.py
 import tensorflow as tf
 
 # Simple hello world using TensorFlow
